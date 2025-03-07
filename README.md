@@ -3,7 +3,7 @@ A curated list of cool, interesting, and whimsical websites on the internet. The
 
 :construction: Browsable directory coming soon. :construction:
 
-Feel free to [add your own here](https://github.com/aschmelyun/hyperlink.rocks/issues/new) or by sending me a message directly!
+Feel free to [add your own here](https://github.com/aschmelyun/hyperlink.rocks/issues/new?template=new-link.md) or by sending me a message directly!
 
 ---
 
